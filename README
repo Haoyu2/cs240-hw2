@@ -1,10 +1,8 @@
 # UMass Boston CS 240
 
-# Homework 2
+# Homework 3
 
 # Due 7/11/2021 23:
-
-[Overleaf](https://www.overleaf.com/read/fqhzhdpgdkyf)
 
 ## (10 Points) Submission of Homework 3
 
@@ -125,18 +123,7 @@ unsigned bitrightrot(unsigned x, int n)
 }
 
 Example:
-Input: num = 3
-Output: 2147483649u
-Explanation: 
-
-The input binary expression  00000000000000000000000000000011 
-The output binary expression 10000000000000000000000000000001 
-
-
-Example:
-Input: num = 32
-Output: 3u
-The input binary expression  00000000000000000000000000000011 
-The output binary expression 00000000000000000000000000000011 
+Input: num = 3Output: 2147483649u
+Explanation: The input binary expression 00000000000000000000000000000011
 
 

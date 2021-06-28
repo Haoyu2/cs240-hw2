@@ -57,6 +57,11 @@ int main(int argc, char const *argv[])
     printf("%u\n", bitrightrot(3, 1));
     getBinary(bitrightrot(3, 1));
 
+
+    getBinary(3);
+    printf("%u\n", bitrightrot(3, 32));
+    getBinary(bitrightrot(3, 32));
+
     return 0;
 }
 

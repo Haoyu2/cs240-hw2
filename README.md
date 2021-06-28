@@ -97,7 +97,7 @@ Output: 2Explanation: s1 contains ’c’ at index 2 exists in s
 
 Input: s1 = "abc", s2 = "bc"
 Output: 1
-Input: s1 = "abc", s2 = "d"Output: 0
+Input: s1 = "abc", s2 = "d"Output: -1
 
 
 ## 6 (15 Points) – char* squeeze hw2(const char* s1, const char* s2)

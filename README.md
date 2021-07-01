@@ -125,7 +125,7 @@ unsigned bitrightrot(unsigned x, int n)
 }
 
 Example:
-Input: num = 3
+Input: x = 3u, n = 1
 Output: 2147483649u
 Explanation: 
 
@@ -134,8 +134,7 @@ The output binary expression 10000000000000000000000000000001
 
 
 Example:
-Input: num = 32
-Output: 3u
+Input: x = 3u, n = 32
 The input binary expression  00000000000000000000000000000011 
 The output binary expression 00000000000000000000000000000011 
 
